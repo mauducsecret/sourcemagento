@@ -10,7 +10,7 @@
     <description>Redis adapter for Zend_Cache</description>
     <notes>1.9.4.2</notes>
     <authors><author><name>Colin Mollenhour</name><user>core</user><email>colin@mollenhour.com</email></author></authors>
-    <date>2019-06-13</date>
+    <date>2020-06-13</date>
     <time>15:58:01</time>
     <contents><target name="magelib"><dir name="Cm"><dir name="Cache"><dir name="Backend"><file name="Redis.php" hash="1c137eef42b9c034fa0b6d5258092c00"/></dir></dir></dir></target></contents>
     <compatible/>

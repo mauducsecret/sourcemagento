@@ -10,7 +10,7 @@
     <description>PHP 7.1 removed the mcrypt extension. This provides a compatibility layer for legacy applications.</description>
     <notes>1.9.4.2</notes>
     <authors><author><name>Jim Wigginton</name><user>core</user><email>terrafrost@php.net</email></author></authors>
-    <date>2019-06-13</date>
+    <date>2020-06-13</date>
     <time>15:58:04</time>
     <contents><target name="magelib"><dir name="mcryptcompat"><file name="mcrypt.php" hash="bf8efc3ef65399aba6c1f08e9b3adbe0"/></dir></target></contents>
     <compatible/>

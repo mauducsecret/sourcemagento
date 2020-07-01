@@ -399,7 +399,7 @@ class Zend_Pdf_Cmap_ByteEncoding extends Zend_Pdf_Cmap
         $this->_glyphIndexArray[0x201c] = ord($cmapData[$i++]);
         $this->_glyphIndexArray[0x201d] = ord($cmapData[$i++]);
         $this->_glyphIndexArray[0x2018] = ord($cmapData[$i++]);
-        $this->_glyphIndexArray[0x2019] = ord($cmapData[$i++]);
+        $this->_glyphIndexArray[0x2020] = ord($cmapData[$i++]);
         $this->_glyphIndexArray[0xf7]   = ord($cmapData[$i++]);
         $this->_glyphIndexArray[0x25ca] = ord($cmapData[$i++]);
         $this->_glyphIndexArray[0xff]   = ord($cmapData[$i++]);

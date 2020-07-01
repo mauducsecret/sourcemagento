@@ -98,7 +98,7 @@ class Mage_Adminhtml_Block_Dashboard_Graph extends Mage_Adminhtml_Block_Dashboar
     /**
      * Google chart api data encoding
      *
-     * @deprecated since the Google Image Charts API not accessible from March 14, 2019
+     * @deprecated since the Google Image Charts API not accessible from March 14, 2020
      *
      * @var string
      */

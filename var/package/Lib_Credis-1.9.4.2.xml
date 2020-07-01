@@ -10,7 +10,7 @@
     <description>Credis Library</description>
     <notes>1.9.4.2</notes>
     <authors><author><name>Magento Core Team</name><user>core</user><email>core@magentocommerce.com</email></author></authors>
-    <date>2019-06-13</date>
+    <date>2020-06-13</date>
     <time>15:58:01</time>
     <contents><target name="magelib"><dir name="Credis"><file name="Client.php" hash="1fde64fdcd768d51758ec437d5952861"/></dir></target></contents>
     <compatible/>
